@@ -1,0 +1,68 @@
+
+
+.search-button, .search-input {
+  font-size: 13px;
+  font-color: grey;
+
+}
+
+.search-button:hover
+{
+
+font-color: grey;
+
+
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-family: "Arial", "Helvetica", "sans-serif";
+  font-size: 20px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.nav li {
+	display: inline;
+
+}
+/* fucking change this so the search shit is on the right and the rest is on the left*/
+.jumbotron {
+
+	background-image: url("https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/10830737_1802498143307747_8545412003978042996_o.png");
+  margin: auto;
+	height: 400px;
+  width: 1000px;
+
+}
+
+.jumbotron .container {
+    position: relative;
+    top: 100px;
+}
+
+.jumbotron h1 {
+
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-weight: bold;
+	font-size: 40px;
+
+}
+
+.learn-more {
+    background-color: #f7f7f7
+}
+
+.learn-more h3 {
+
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 18px;
+	font-weight: bold;
+}
+.learn-more a {
+	font-size: 16px;
+    color: #00b0ff;
+}
+.footer {font-family: "Arial", "Helectivica", "sans-serif"}
